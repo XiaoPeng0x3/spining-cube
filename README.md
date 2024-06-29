@@ -9,11 +9,11 @@
 
 在二维平面中，描述一个点可以使用$(x,y)$来进行描述。现在规定绕原点进行逆时针旋转的方向为正方向。那么一个点$P(x_1,y_1)$经过旋转后，假设它旋转到了$P'(x_2,y_2)$这个点，那么可以根据这些点之间的几何关系来表达出来$P$和$P'$之间的关系。
 
-![deduction1](C:\Users\13481\Desktop\spining-cube\Theory\deduction1.jpg)
+![deduction1](.\Theory\deduction1.jpg)
 
-![deduction2](C:\Users\13481\Desktop\spining-cube\Theory\deduction2.jpg)
+![deduction2](.\Theory\deduction2.jpg)
 
-![deduction3](C:\Users\13481\Desktop\spining-cube\Theory\deduction3.jpg)
+![deduction3](.\Theory\deduction3.jpg)
 
 因此，可以得到变换矩阵为：
 
